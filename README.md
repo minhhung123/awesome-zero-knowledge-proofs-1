@@ -50,29 +50,29 @@
 - [License](#license)
 
 ## Introductions
-- [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
-- [Zero Knowledge Proofs: An Illustrated Primer by Matthew Green](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
-- [Demonstration of Zero-Knowledge Proof for Sudoku Using Standard Playing Cards](https://www.wisdom.weizmann.ac.il/~naor/PAPERS/SUDOKU_DEMO/)
-- [zudoku](https://zudoku.xyz/): ZK proving knowledge of Sudoku solutions
-- [Zero Knowledge Proof and its Applications in Bitcoin](https://xiaohuiliu.medium.com/zero-knowledge-proof-and-its-applications-in-bitcoin-aca833d7d745)
-- [zk-SNARKs on Bitcoin](https://xiaohuiliu.medium.com/zk-snarks-on-bitcoin-239d96d182bd)
-- [ZKPs for Engineers: Introduction](https://blog.zkga.me/intro-to-zksnarks)
+- [X] [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
+- [ ] [Zero Knowledge Proofs: An Illustrated Primer by Matthew Green](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
+- [ ] [Demonstration of Zero-Knowledge Proof for Sudoku Using Standard Playing Cards](https://www.wisdom.weizmann.ac.il/~naor/PAPERS/SUDOKU_DEMO/)
+- [ ] [zudoku](https://zudoku.xyz/): ZK proving knowledge of Sudoku solutions
+- [ ] [Zero Knowledge Proof and its Applications in Bitcoin](https://xiaohuiliu.medium.com/zero-knowledge-proof-and-its-applications-in-bitcoin-aca833d7d745)
+- [ ] [zk-SNARKs on Bitcoin](https://xiaohuiliu.medium.com/zk-snarks-on-bitcoin-239d96d182bd)
+- [ ] [ZKPs for Engineers: Introduction](https://blog.zkga.me/intro-to-zksnarks)
 
 
 ## Tutorials
-- [zk Battleship interactive course by sCrypt](https://learn.scrypt.io/en/courses/630b1fe6c26857959e13e160)
-- [Create Your First Zero-Knowledge Proof Program on Bitcoin](https://xiaohuiliu.medium.com/create-your-first-zero-knowledge-proof-program-on-bitcoin-ec159cc501f4): use ZoKrates
-- [Intro to Circom and Snarkjs by Iden3](https://iden3-docs.readthedocs.io/en/latest/iden3_repos/circom/TUTORIAL.html)
-- [Getting Started with zkSnarks on ZoKrates](https://blog.gnosis.pm/getting-started-with-zksnarks-zokrates-61e4f8e66bcc)
-- [Proving Knowledge of a Hash Pre-Image with ZoKrates](https://blog.decentriq.com/proving-hash-pre-image-zksnarks-zokrates/)
-- [Zokrates Hello World Walkthrough](https://hackmd.io/@adietrichs/HkH0OduZw)
-- [Zero Knowledge Proofs Workshop - Zokrates Tutorial](http://extropy.foundation/workshops/zkp/zokrates.html)
-- [A Practical Guide To Building Zero Knowledge dApps](https://kndrck.co/posts/practical_guide_build_zk_dapps/): Circom
+- [ ] [zk Battleship interactive course by sCrypt](https://learn.scrypt.io/en/courses/630b1fe6c26857959e13e160)
+- [ ] [Create Your First Zero-Knowledge Proof Program on Bitcoin](https://xiaohuiliu.medium.com/create-your-first-zero-knowledge-proof-program-on-bitcoin-ec159cc501f4): use ZoKrates
+- [ ] [Intro to Circom and Snarkjs by Iden3](https://iden3-docs.readthedocs.io/en/latest/iden3_repos/circom/TUTORIAL.html)
+- [ ] [Getting Started with zkSnarks on ZoKrates](https://blog.gnosis.pm/getting-started-with-zksnarks-zokrates-61e4f8e66bcc)
+- [ ] [Proving Knowledge of a Hash Pre-Image with ZoKrates](https://blog.decentriq.com/proving-hash-pre-image-zksnarks-zokrates/)
+- [ ] [Zokrates Hello World Walkthrough](https://hackmd.io/@adietrichs/HkH0OduZw)
+- [ ] [Zero Knowledge Proofs Workshop - Zokrates Tutorial](http://extropy.foundation/workshops/zkp/zokrates.html)
+- [ ] [A Practical Guide To Building Zero Knowledge dApps](https://kndrck.co/posts/practical_guide_build_zk_dapps/): Circom
 
 
 ## Programming Languages 
-- [Introduction to Domain Specific Languages (DSLs)](https://youtu.be/kqnYbSmdcbA?t=392) by Alex Ozdemir
-- [Programming Languages in ZKP](https://medium.com/delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e) by Delendum Ventures: video is on [YouTube](https://www.youtube.com/channel/UCM7Dc3y3BVTTpprDidVV7iw)
+- [ ] [Introduction to Domain Specific Languages (DSLs)](https://youtu.be/kqnYbSmdcbA?t=392) by Alex Ozdemir
+- [ ] [Programming Languages in ZKP](https://medium.com/delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e) by Delendum Ventures: video is on [YouTube](https://www.youtube.com/channel/UCM7Dc3y3BVTTpprDidVV7iw)
 
 | Name  | Type | GitHub | Documentation | 
 | ------------- |:-------------:|:-------------:|:-------------:|
